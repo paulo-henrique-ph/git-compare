@@ -6,6 +6,10 @@ padding-top: 60 px;
 margin-top: 20px;
 flex-direction: column;
 align-items: center;
+
+  img {
+    width: 100px;
+  }
 `;
 
 export const Form = styled.form`
