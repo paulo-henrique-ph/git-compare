@@ -6,7 +6,7 @@ import logo from '../../assets/logo.png';
 
 import { Container, Form } from './styles';
 
-import CompareList from '../../components/CompareList/index';
+import CompareList from '../../components/CompareList';
 
 export default class Main extends Component {
   constructor(props) {
